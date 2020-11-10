@@ -6,14 +6,14 @@ Nous mettons en place un site internet pour une association participant à un ra
 
 -> Description super intéressante :
 
-L'europraid est un rallye solidaire fait en Peugeot 205. Ce rallye est fait en 22 jours à travers l'Europe (10 000 km parcouru) et permet de distribuer 70 kg de matériel collecté en France, dans une vingtaine dpays d'Europe à destination de personnes démunis. Ce rallye est réalisé par 3 coéquipiers. 
+L'europraid est un rallye solidaire fait en Peugeot 205. Ce rallye est fait en 22 jours à travers l'Europe (10 000 km parcouru) et permet de distribuer 70 kg de matériel collecté en France, à destination de personnes démunis dans une vingtaine de pays d'Europe . Ce rallye est réalisé par 3 coéquipiers. 
 
 L'application web va permettre de collecter des dons, écrire des articles de blog, envoyer des newsletter aux sponsors. Bref pour présenter l'équipe, le rallye ou tout simplement leur but, travailler l'image de marque de l'association et communiquer.
 
 ## 2. Parcours utilisateur
 Décris le parcours utilisateur: 
 
-![Alt text](Users/user/Desktop/Parcours%20utilisateur?raw=true "Title"
+![picture](Desktop/Parcours_utilisateur.png)
 
 I. Considérer: Particuliers: "Je recherche des associationsà soutenir. Je souhaite faire un don."
                Entreprises: "je souhaite améliorer mon image de marque/notoriété"
@@ -30,7 +30,7 @@ IV. Recommander/bouche à oreille: Particuliers: Je recommande à mes amis. J'en
 
 - Création d'un site internet en rails ( faisant appelle à nos connaissances acquises ces dernières semaines (des commentaires sur les articles/aimer les articles/les partager)
 
-Site accessible à la partie sponsors/user/particuliers:
+Site accessible à la partie sponsors/users/particuliers:
 - Espace login pour que les sponsors puissent se connecter et récupérer un justificatif précisant la nature de son don (espace utilisateur avec mot de passe),
 - Espace "Mon profil": logo, nom de l'entreprise, description
 - Une page de justificatif paiement
@@ -47,7 +47,6 @@ Site accessible au publique (possibilité de voir les pages suivantes sans être
 - Une page permettant le paiement des dons.
 - La possibilité au éventuel sponsors de voir les disponibilité d'espace où mettre leur logo sur la voiture 
 
-//!\\ Aller s'inspirer des  fonctionnalités de site crowdfounding //!\\
 
 
 ### 3.1. Base de données
@@ -66,7 +65,7 @@ Nous aurons surement besoin de front dynamique afin de rendre le site plus esth�
 ### 3.3. Backend
 De quoi avez-vous besoin pour le backend ? Quelles sont les APIs en back que vous allez brancher et utiliser ?
 
-- Stripe;
+- Stripe
 - Devise
 - Heroku
 - Exporter CSV Postgresql
