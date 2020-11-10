@@ -6,25 +6,24 @@ Nous mettons en place un site internet pour une association participant à un ra
 
 -> Description super intéressante :
 
-L'europraid est un rallye solidaire fait en Peugeot 205. Ce rallye est fait en 22 jours à travers l'Europe (10 000 km parcouru) et permet de distribuer 70 kg de matériel collecté en France, dans les pays d'Europe défavorisés. Ce rallye est réalisé par 3 coéquipiers. 
+L'europraid est un rallye solidaire fait en Peugeot 205. Ce rallye est fait en 22 jours à travers l'Europe (10 000 km parcouru) et permet de distribuer 70 kg de matériel collecté en France, dans une vingtaine dpays d'Europe à destination de personnes démunis. Ce rallye est réalisé par 3 coéquipiers. 
 
-L'application va permettre de collecter des dons, écrire des articles de blog, envoyer des newsletter aux sponsors... Bref pour présenter l'équipe, le rallye ou tout simplement leur but, travailler l'image de marque de l'association et communiquer.
+L'application web va permettre de collecter des dons, écrire des articles de blog, envoyer des newsletter aux sponsors. Bref pour présenter l'équipe, le rallye ou tout simplement leur but, travailler l'image de marque de l'association et communiquer.
 
 ## 2. Parcours utilisateur
 Décris le parcours utilisateur: 
 
-![Parcours utilisateur]
-(file:///Users/user/Desktop/Parcours%20utilisateur.png)      
+![Alt text](Users/user/Desktop/Parcours%20utilisateur?raw=true "Title"
 
 I. Considérer: Particuliers: "Je recherche des associationsà soutenir. Je souhaite faire un don."
                Entreprises: "je souhaite améliorer mon image de marque/notoriété"
 
-II. Evaluer: Je découvre le site de l'équipe "Raidators" participant participantà un rallye solidaire.
+II. Evaluer: Je découvre le site de l'équipe "Raidators" participant à un rallye solidaire.
 
-III. Faire un don/suivre: Je souhaite participerà leur mouvement en faisant un don( matériel ou financier). Je souhaite les suivre pour voir leur avancée dans la collecte.
+III. Faire un don/suivre: Je souhaite participer à leur mouvement en faisant un don (matériel ou financier). Je souhaite les suivre pour voir leur avancée dans la collecte.
 
-IV. Recommander/bouche à oreille: Particuliers:Je recommandeà mes amis. J'en parle dans mon entourage.
-                                  Entreprises: je proposeà mes partenaires/fournisseurs.
+IV. Recommander/bouche à oreille: Particuliers: Je recommande à mes amis. J'en parle dans mon entourage.
+                                  Entreprises: je propose à mes partenaires/fournisseurs.
  
 
 ## 3. Concrètement et techniquement
